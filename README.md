@@ -14,7 +14,14 @@
 * Recommended mitigation strategies
 
 ---
+## 🎯 Impact
 
+- Identified critical risks including RDP exposure, FTP vulnerabilities, and RPC services  
+- Evaluated risks based on likelihood and business impact  
+- Mapped vulnerabilities to ISO 27001 controls  
+- Provided risk-based mitigation strategies to improve organisational security posture
+
+---
 ## 🛠️ Tools
 
 `Nmap`
