@@ -23,7 +23,7 @@
 
 ## 📄 Report
 
-👉 [View Report](./GRC_Risk_Assessment.%281%29.docx)
+👉👉 [View Risk Assessment](./GRC_Risk_Assessment.docx)
 
 ---
 
